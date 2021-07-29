@@ -1,9 +1,8 @@
 import Head from 'next/head'
 import Image from 'next/image'
-import { blogPosts } from '../lib/data'
 import styles from '../styles/Home.module.css'
 
-export default function Home() {
+export default function About() {
   return (
     <div>
       <Head>
@@ -14,21 +13,9 @@ export default function Home() {
 
       <main>
         <h1>
-          My Blog
+          About
         </h1>
       </main>
-
-      <div>
-        {blogPosts.map((item) => (
-          <div key={item.title}>
-            <h3>{item.title}</h3>
-            <i>{item.date.toString()}</i>
-            <p>{item.content}</p>
-          </div>
-        ))}
-      </div>
-
-
     </div>
   )
 }
