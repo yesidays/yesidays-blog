@@ -16,7 +16,9 @@ const Header = () => {
             <div className="row align-items-center">
 
               <div className="col-md-4 col-xs-12">
-                <a className="navbar-brand" href="classic.html"><img src="images/logo.svg" alt="logo" /></a> 
+                <a className="navbar-brand" href="classic.html">
+                  {/*<img src="images/logo.svg" alt="logo" />*/}
+                </a> 
               </div>
 
               <div className="col-md-8 d-none d-md-block">
