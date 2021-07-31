@@ -1,27 +1,22 @@
 import Link from 'next/link';
 
-import '../styles/globals.css'
+import Layout from '../components/Layout';
+
+import '../styles/bootstrap.min.css'
+{/*import '../styles/all.min.css'*/}
+{/*import '../styles/slick.css'*/}
+{/*import '../styles/simple-line-icons.css'*/}
+import '../styles/style.css'
+
 
 function MyApp({ Component, pageProps }) {
   return (
 
-    <div>
-      <nav>
-        <ul>
-          <li>
-            <Link href="/">
-              <a>Home</a>
-            </Link>
-          </li>
-          <li>
-            <Link href="/about">
-                <a>About</a>
-            </Link>
-          </li>
-        </ul>
-      </nav>
+    <Layout>
+
       <Component {...pageProps} />
-    </div>
+
+    </Layout>
 
   )
 }

@@ -1,7 +1,8 @@
-import Image from 'next/image'
+import Head from 'next/head'
 import Link from 'next/link'
 
-import Layout from '../components/layout';
+import Layout from '../components/Layout';
+
 import { getSortedPostsData } from '../lib/posts';
 
 
@@ -14,25 +15,29 @@ export async function getStaticProps() {
   };
 }
 
+
 export default function Home({ allPostsData }) {
   return (
-    <Layout home>
 
-      <div>
-        <ul>
-            {allPostsData.map(({ slug, date, title }, index) => (
-              <li key={index}>
-                <Link href={`/posts/${slug}`}>
-                  <a>{title}</a>
-                </Link>
-                <br />
-                <span>
-                  {date}
-                </span>
-              </li>
-            ))}
-        </ul>
-      </div>
-    </Layout>
+    <div>
+
+        <div>
+          <ul>
+              {allPostsData.map(({ slug, date, title }, index) => (
+                <li key={index}>
+                  <Link href={`/posts/${slug}`}>
+                    <a>{title}</a>
+                  </Link>
+                  <br />
+                  <span>
+                    {date}
+                  </span>
+                </li>
+              ))}
+          </ul>
+        </div>
+
+    </div>
+
   );
 }
