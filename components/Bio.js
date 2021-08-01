@@ -4,7 +4,11 @@ const Bio = () => {
         <div className="widget rounded">
           <div className="widget-about data-bg-image text-center" data-bg-image="images/map-bg.png">
             <img src="images/logo.svg" alt="logo" className="mb-4" />
-            <p className="mb-4">Hello, We’re content writer who is fascinated by content fashion, celebrity and lifestyle. We helps clients bring the right content to the right people.</p>
+            <p className="mb-4">
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris sodales fringilla nisi, 
+              a consequat erat placerat vel. Quisque et commodo velit. Duis posuere porttitor neque quis 
+              tempus.
+            </p>
             <ul className="social-icons list-unstyled list-inline mb-0">
               <li className="list-inline-item"><a href="#"><i className="fab fa-facebook-f"></i></a></li>
               <li className="list-inline-item"><a href="#"><i className="fab fa-twitter"></i></a></li>

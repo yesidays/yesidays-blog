@@ -1,6 +1,8 @@
 ---
 title: Markdown Primer
 date: '2020-01-02'
+excerpt: "Lorem ipsum..."
+category: "Javascript"
 ---
 
 An h1 header
