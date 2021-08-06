@@ -1,5 +1,6 @@
 import Head from 'next/head'
 import Link from 'next/link'
+import Image from 'next/image'
 
 import Layout from '../components/Layout';
 import Sidebar from '../components/Sidebar';
@@ -11,6 +12,8 @@ import { getSortedPostsData } from '../lib/posts';
 
 export async function getStaticProps() {
   const allPostsData = getSortedPostsData();
+
+  
   return {
     props: {
       allPostsData,
@@ -34,7 +37,7 @@ export default function Home({ allPostsData }) {
 
             {/* Posts */}
 
-            {allPostsData.map(({ slug, date, title, excerpt, category }, index) => (
+            {allPostsData.map(({ slug, date, title, excerpt, category, cover }, index) => (
               
               <div className="post post-classic rounded bordered" key={index}>
               <div className="thumb top-rounded">
@@ -44,7 +47,7 @@ export default function Home({ allPostsData }) {
                 </span>
                 <a href="blog-single.html">
                   <div className="inner">
-                    <img src="images/posts/post-lg-1.jpg" alt="post-title" />
+                    <img src={cover} />
                   </div>
                 </a>
               </div>

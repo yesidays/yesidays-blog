@@ -3,9 +3,10 @@ title: Markdown Primer
 date: '2020-01-02'
 excerpt: "Lorem ipsum..."
 category: "Javascript"
+cover: "/static/posts/post1.jpg"
 ---
 
-An h1 header
+Titutlo post
 ============
 
 Paragraphs are separated by a blank line.

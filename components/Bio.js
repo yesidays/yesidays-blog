@@ -5,9 +5,7 @@ const Bio = () => {
           <div className="widget-about data-bg-image text-center" data-bg-image="images/map-bg.png">
             <img src="images/logo.svg" alt="logo" className="mb-4" />
             <p className="mb-4">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris sodales fringilla nisi, 
-              a consequat erat placerat vel. Quisque et commodo velit. Duis posuere porttitor neque quis 
-              tempus.
+              Yesi....odso dosod osd oso 
             </p>
             <ul className="social-icons list-unstyled list-inline mb-0">
               <li className="list-inline-item"><a href="#"><i className="fab fa-facebook-f"></i></a></li>
