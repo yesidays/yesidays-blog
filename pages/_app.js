@@ -4,8 +4,11 @@ import Script from 'next/script'
 
 import Layout from '../components/Layout';
 
-import '../styles/bootstrap.min.css'
-import '../styles/style.css'
+import '../css/bootstrap.min.css'
+import '../css/all.min.css'
+import '../css/slick.css'
+import '../css/simple-line-icons.css'
+import '../css/style.css'
 
 
 function MyApp({ Component, pageProps }) {

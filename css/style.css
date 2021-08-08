@@ -684,10 +684,10 @@ body.down .header-default.clone, body.down .header-personal nav.clone, body.down
 }
 .navbar-nav li.active .nav-link {
   color: #FFF;
-  border-radius: 25px;
-  background: #FE4F70;
-  background: -webkit-linear-gradient(left, #FE4F70 0%, #FFA387 100%);
-  background: linear-gradient(to right, #FE4F70 0%, #FFA387 100%);
+  border-radius: 2px;
+  background: #480ca8;
+  /*background: -webkit-linear-gradient(left, #480ca8 0%, #b5179e 100%);
+  background: linear-gradient(to right, #480ca8 0%, #b5179e 100%);*/
 }
 
 .navbar-brand {
@@ -1093,16 +1093,16 @@ section {
 .post .category-badge {
   color: #FFF;
   font-size: 13px;
-  border-radius: 25px;
+  border-radius: 5px;
   display: inline-block;
   padding: 6px 11px;
   line-height: 1;
   left: 20px;
   top: 20px;
   z-index: 1;
-  background: #FE4F70;
-  background: -webkit-linear-gradient(left, #FE4F70 0%, #FFA387 51%, #FE4F70 100%);
-  background: linear-gradient(to right, #FE4F70 0%, #FFA387 51%, #FE4F70 100%);
+  background: #9d4edd;
+  /*background: -webkit-linear-gradient(left, #10002b 0%, #10002b 51%, #240046 100%);
+  background: linear-gradient(to right, #10002b 0%, #10002b 51%, #240046 100%);*/
   background-size: 200% auto;
   -webkit-transition: all 0.3s ease-in-out;
   -moz-transition: all 0.3s ease-in-out;
