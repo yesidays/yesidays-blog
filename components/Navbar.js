@@ -35,14 +35,15 @@ const Navbar = () => {
                 </ul>
               </div>
 
-              <div className="header-buttons">
+              {/*<div className="header-buttons">
                 <button className="search icon-button">
                   <i className="icon-magnifier"></i>
                 </button>
                 <button className="burger-menu icon-button ms-2 float-end float-lg-none">
                   <span className="burger-icon"></span>
                 </button>
-              </div>
+              </div>*/}
+
             </div>
           </div>
 

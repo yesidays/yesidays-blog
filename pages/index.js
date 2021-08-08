@@ -3,7 +3,6 @@ import Link from 'next/link'
 import Image from 'next/image'
 
 import Layout from '../components/Layout';
-import Sidebar from '../components/Sidebar';
 import Instagram from '../components/Instagram';
 
 
@@ -26,14 +25,6 @@ export default function Home({ allPostsData }) {
   return (
 
     <>
-
-    <section className="main-content">
-      <div className="container-xl">
-
-        <div className="row gy-4">
-
-          <div className="col-lg-8">
-
 
             {/* Posts */}
 
@@ -92,28 +83,9 @@ export default function Home({ allPostsData }) {
 
             {/* End Post */}
 
-            <nav>
-              <ul className="pagination justify-content-center">
-                <li className="page-item active" aria-current="page">
-                  <span className="page-link">1</span>
-                </li>
-                <li className="page-item"><a className="page-link" href="#">2</a></li>
-                <li className="page-item"><a className="page-link" href="#">3</a></li>
-              </ul>
-            </nav>
+            
 
-          </div>
-          <div className="col-lg-4">
-
-            <Sidebar />
-
-          </div>
-
-        </div>
-
-      </div>
-    </section>
-
+  
     
     {/*<Instagram />*/}
 
