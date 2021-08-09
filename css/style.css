@@ -36,7 +36,7 @@ Description: Minimal Blog and Magazine HTML Template
 /*                      BASE                              
 /*=================================================================*/
 body {
-  color: #8F9BAD;
+  color: #22262c;
   background-color: #fff;
   font-family: "Roboto", sans-serif;
   font-size: 15px;
@@ -498,7 +498,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 a {
-  color: #FE4F70;
+  color: #9d4edd;
+  font-weight: bold;
   outline: 0;
   text-decoration: none;
   -webkit-transition: all 0.2s ease-in-out;
@@ -519,8 +520,8 @@ a:focus {
 blockquote {
   padding: 20px 20px;
   margin: 0 0 20px;
-  background: #fff8fa;
-  border-left: solid 3px #FE4F70;
+  background: #f0f0f5;
+  border-left: solid 3px #5a189a;
   border-radius: 5px;
 }
 
