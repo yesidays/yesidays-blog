@@ -1,9 +1,24 @@
+import Link from 'next/link';
+
 const Newsletter = () => {
   return (  
 
     <>
-
+                
         <div className="widget rounded">
+            <div className="widget-header text-center">
+                <h3 className="widget-title">Boletín</h3>
+                <Link href="https://yesi-days.ck.page/f07664a296">
+                  <a target="_blank">
+                    <br/>
+                  <button className="btn btn-default btn-sm" type="submit">Suscríbete</button>
+                  </a>
+                </Link>
+            </div>
+        </div>
+
+
+        {/*<div className="widget rounded">
             <div className="widget-header text-center">
                 <h3 className="widget-title">Newsletter</h3>
                 <img src="images/wave.svg" className="wave" alt="wave" />
@@ -18,7 +33,7 @@ const Newsletter = () => {
                 </form>
                 <span className="newsletter-privacy text-center mt-3">By signing up, you agree to our <a href="#">Privacy Policy</a></span>
             </div>		
-        </div>
+        </div>*/}
 
     </>
 

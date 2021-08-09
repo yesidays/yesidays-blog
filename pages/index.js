@@ -32,15 +32,19 @@ export default function Home({ allPostsData }) {
               
               <div className="post post-classic rounded bordered" key={index}>
               <div className="thumb top-rounded">
-                <a href="" className="category-badge lg position-absolute">{category}</a>
-                <span className="post-format">
+                <Link href={`/posts/${slug}`}>
+                  <a className="category-badge lg position-absolute">{category}</a>
+                </Link>
+                {/*<span className="post-format">
                   <i className="icon-picture"></i>
-                </span>
-                <a href="blog-single.html">
-                  <div className="inner">
-                    <img src={cover} />
-                  </div>
-                </a>
+                </span>*/}
+                <Link href={`/posts/${slug}`}>
+                  <a>
+                    <div className="inner">
+                      <img src={cover} />
+                    </div>
+                  </a>
+                </Link>
               </div>
               <div className="details">
                 <ul className="meta list-inline mb-0">
@@ -58,7 +62,7 @@ export default function Home({ allPostsData }) {
                 </p>
               </div>
               <div className="post-bottom clearfix d-flex align-items-center">
-                <div className="social-share me-auto">
+                {/*<div className="social-share me-auto">
                   <button className="toggle-button icon-share"></button>
                   <ul className="icons list-unstyled list-inline mb-0">
                     <li className="list-inline-item"><a href="#"><i className="fab fa-facebook-f"></i></a></li>
@@ -68,12 +72,16 @@ export default function Home({ allPostsData }) {
                     <li className="list-inline-item"><a href="#"><i className="fab fa-telegram-plane"></i></a></li>
                     <li className="list-inline-item"><a href="#"><i className="far fa-envelope"></i></a></li>
                   </ul>
-                </div>
+                </div>*/}
                 <div className="float-end d-none d-md-block">
-                  <a href="blog-single.html" className="more-link">Leer más<i className="icon-arrow-right"></i></a>
+                  <Link href={`/posts/${slug}`}>
+                    <a className="more-link">Leer más<i className="icon-arrow-right"></i></a>
+                  </Link>
                 </div>
                 <div className="more-button d-block d-md-none float-end">
-                  <a href="blog-single.html"><span className="icon-options"></span></a>
+                  <Link href={`/posts/${slug}`}>
+                    <a><span className="icon-options"></span></a>
+                  </Link>
                 </div>
               </div>
 

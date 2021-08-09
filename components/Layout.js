@@ -43,7 +43,7 @@ export default function Layout( {children} ) {
 
                 </div>
 
-                <nav>
+                {/*<nav>
                   <ul className="pagination justify-content-center">
                     <li className="page-item active" aria-current="page">
                       <span className="page-link">1</span>
@@ -51,7 +51,7 @@ export default function Layout( {children} ) {
                     <li className="page-item"><a className="page-link" href="#">2</a></li>
                     <li className="page-item"><a className="page-link" href="#">3</a></li>
                   </ul>
-                </nav>
+                </nav>*/}
                 
               </div>
             </div>

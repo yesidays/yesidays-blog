@@ -11,12 +11,14 @@ const Footer = () => {
 
             <div className="col-md-4 text-center">
               <ul className="social-icons list-unstyled list-inline mb-0">
-                <li className="list-inline-item"><a href="#"><i className="fab fa-facebook-f"></i></a></li>
-                <li className="list-inline-item"><a href="#"><i className="fab fa-twitter"></i></a></li>
-                <li className="list-inline-item"><a href="#"><i className="fab fa-instagram"></i></a></li>
-                <li className="list-inline-item"><a href="#"><i className="fab fa-pinterest"></i></a></li>
-                <li className="list-inline-item"><a href="#"><i className="fab fa-medium"></i></a></li>
-                <li className="list-inline-item"><a href="#"><i className="fab fa-youtube"></i></a></li>
+              <li className="list-inline-item">
+                <a href="https://www.facebook.com/yesidays" target="_blank">
+                  <i className="fab fa-facebook-f"></i>
+                </a>
+              </li>
+              <li className="list-inline-item"><a href="https://www.twitter.com/silvercorp" target="_blank"><i className="fab fa-twitter"></i></a></li>
+              <li className="list-inline-item"><a href="https://www.instagram.com/yesidaysb/" target="_blank"><i className="fab fa-instagram"></i></a></li>
+              <li className="list-inline-item"><a href="https://www.youtube.com/channel/UCeq5xhBgFLkmfGPGov-N0xQ" target="_blank"><i className="fab fa-youtube"></i></a></li>
               </ul>
             </div>
 

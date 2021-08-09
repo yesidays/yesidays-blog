@@ -2336,7 +2336,7 @@ button:focus {
 .btn {
   color: #FFF;
   border: 0;
-  border-radius: 25px;
+  border-radius: 10px;
   font-family: "Roboto", sans-serif;
   font-size: 14px;
   font-weight: 400;
@@ -2361,9 +2361,9 @@ button:focus {
 .btn-default {
   color: #FFF;
   padding: 9.5px 36px;
-  background: #FE4F70;
-  background: -webkit-linear-gradient(left, #FE4F70 0%, #FFA387 51%, #FE4F70 100%);
-  background: linear-gradient(to right, #FE4F70 0%, #FFA387 51%, #FE4F70 100%);
+  background: #3f37c9;
+  /*background: -webkit-linear-gradient(left, #FE4F70 0%, #FFA387 51%, #FE4F70 100%);
+  background: linear-gradient(to right, #FE4F70 0%, #FFA387 51%, #FE4F70 100%);*/
   background-size: 200% auto;
 }
 .btn-default:hover {
@@ -2389,7 +2389,7 @@ button:focus {
   border: solid 1px #FFF;
 }
 .btn-light:hover {
-  color: #FE4F70;
+  color: #480ca8;
   border-color: #FFF;
 }
 
