@@ -3,7 +3,7 @@ title: Comandos básicos de Git
 date: '2020-01-02'
 excerpt: "Git es un software de control de versiones gratuito y de código abierto creado por Linus Torvalds. El objetivo del control..."
 category: "Git"
-cover: "/static/posts/post2.jpg"
+cover: "/static/posts/command.jpg"
 ---
 
 Git es un software de control de versiones gratuito y de código abierto creado por Linus Torvalds. El objetivo del control de versiones es llevar un historial en nuestros cambios y es indispensable para coordinar el trabajo en equipo y tener un seguimiento en el avance de los proyectos.

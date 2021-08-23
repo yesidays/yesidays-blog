@@ -3,7 +3,7 @@ title: Nuevo año, nuevas metas
 date: '2019-12-25'
 excerpt: "Ya casi acabamos el año 2019 y acostumbro a pensar en lo que hice y en aquello que no logré..."
 category: "Personal"
-cover: "/static/posts/post1.jpg"
+cover: "/static/posts/2019.jpg"
 ---
 
 

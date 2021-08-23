@@ -39,13 +39,16 @@ export default function Post({ postData }) {
     <>
       <div>
         <h1 onClick={(event) => setQuery(event.target.value)}>{postData.title}</h1>
+        <div>
+          <small>Fecha de publicación: {postData.date}</small>
+        </div>
         <br />
 
         <div dangerouslySetInnerHTML={{ __html: postData.contentHtml }} />
 
-        <div>
-          Fecha de publicación: {postData.date}
-        </div>
+        
+
+        <div><a href="/"><i>Regresar</i></a></div>
 
 
       </div>
