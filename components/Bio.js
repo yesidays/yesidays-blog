@@ -10,7 +10,7 @@ const Bio = () => {
             </p>
             <ul className="social-icons list-unstyled list-inline mb-0">
               <li className="list-inline-item">
-                <a href="https://www.facebook.com/yesidays" target="_blank">
+                <a href="https://www.facebook.com/yesidays" target="_blank" rel="noreferrer">
                   <i className="fab fa-facebook-f"></i>
                 </a>
               </li>
