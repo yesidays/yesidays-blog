@@ -5,7 +5,7 @@ const Bio = () => {
           <div className="widget-about data-bg-image text-center" data-bg-image="images/map-bg.png">
             {/*<img src="images/logo.svg" alt="logo" className="mb-4" />*/}
             <p className="mb-4">
-              Hola soy <strong>Yesi Days</strong>. 
+              Hola soy <strong>Yesi Days</strong>.
               <br />Soy Científica de Datos con experiencia en Ingeniería de Software. 
             </p>
             <ul className="social-icons list-unstyled list-inline mb-0">
