@@ -25,3 +25,4 @@ Mis recomendaciones son las siguientes:
 Con lo anterior en mente te comparto mi lista de propósitos para el 2020 que está enfocada a dos metas: ser mejor científica de datos y crecimiento en mi canal de Youtube. Además incluyo un interés adicional que es aprender italiano, al menos las bases del idioma.
 
 Te invito a hacer tu lista y lograr poco a poco tus metas, lo importante es seguir adelante y no desanimarse.
+

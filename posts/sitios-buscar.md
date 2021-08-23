@@ -39,3 +39,4 @@ Los he dividido en español e inglés, en donde la segunda categoría son para a
 <a href="https://www.linkedin.com/jobs/search/?keywords=backend">YCombinator.</a> Debo decir que estoy sorprendida de la variedad de vacantes que encontrarás en YCombinator, por supuesto todas son Startups y con oportunidades de unirte a empresas de reciente creación o algunas más grandes como es el caso de Rappi, Stripe, Fivetran o LogDNA. Además de posturlarte directamente también puedes crear un perfil con lo que estás buscando y cómo deseas crecer profesionalmente, con esa información la plataforma te enviará notificaciones cuando alguna vacante esté relacionada a tus intereses.
 
 Estas son algunas de mis plataformas favoritas y que espero sean de utilidad para ti, si te gustó este post te invito a compartirlo en tus redes sociales. Más adelante te compartiré mis cuentas favoritas en Twitter para informarte de nuevas oportunidades laborales.
+
