@@ -1,6 +1,8 @@
 const Footer = () => {
   return (  
 
+    <>
+
     <footer>
       <div className="container-xl">
         <div className="footer-inner">
@@ -29,6 +31,9 @@ const Footer = () => {
         </div>
       </div>
 	  </footer>
+
+    
+  </>
 
   );
 }

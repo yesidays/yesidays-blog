@@ -1,6 +1,6 @@
 import Link from "next/link";
-
 import Navbar from "./Navbar";
+import { useRouter } from 'next/router'
 
 
 const Header = () => {

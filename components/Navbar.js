@@ -1,7 +1,9 @@
 import Link from "next/link";
-
+import { useRouter } from 'next/router';
 
 const Navbar = () => {
+
+  const router = useRouter();
 
   return (
 
@@ -13,14 +15,14 @@ const Navbar = () => {
             <div className="d-flex align-items-center">
               <div className="collapse navbar-collapse flex-grow-1">
                 <ul className="navbar-nav">
-                  <li className="nav-item dropdown active">
-                    <a className="nav-link" href="/">Blog</a>
+                  <li className={router.pathname == '/' ? '"nav-item dropdown active' : 'nav-item dropdown'}>
+                    <Link href="/"><a className="nav-link">Blog</a></Link>
                   </li>
                   {/*<li className="nav-item">
                     <a className="nav-link" href="#">Blog</a>
                   </li>*/}
-                  <li className="nav-item">
-                    <a className="nav-link" href="/about">¿Quien soy?</a>
+                  <li className={router.pathname == '/about' ? '"nav-item dropdown active' : 'nav-item dropdown'}>
+                    <Link href="/about"><a className="nav-link">¿Quién soy?</a></Link>
                   </li>
                   {/*<li className="nav-item">
                     <a className="nav-link" href="">Contacto</a>
