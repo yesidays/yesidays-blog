@@ -1,4 +1,5 @@
 import { getAllPostIds, getPostData } from "../../lib/posts";
+import Link from "next/link";
 
 import { useState } from 'react'
 import * as ga from '../../lib/ga'
@@ -48,7 +49,7 @@ export default function Post({ postData }) {
 
         
 
-        <div><a href="/"><i>Regresar</i></a></div>
+        <div><Link href="/"><a><i>Regresar</i></a></Link></div>
 
 
       </div>
