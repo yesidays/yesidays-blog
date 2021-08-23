@@ -41,7 +41,12 @@ export default function Home({ allPostsData }) {
                 <Link href={`/posts/${slug}`}>
                   <a>
                     <div className="inner">
-                      <img src={cover} />
+                      {/*<Image
+                        src={cover}
+                        alt="Cover"
+                      />*/}
+
+
                     </div>
                   </a>
                 </Link>
