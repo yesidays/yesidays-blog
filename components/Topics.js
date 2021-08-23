@@ -1,3 +1,5 @@
+import Image from 'next/image'
+
 const Topics = () => {
   return (  
 
@@ -6,7 +8,12 @@ const Topics = () => {
       <div className="widget rounded">
         <div className="widget-header text-center">
           <h3 className="widget-title">Explore Topics</h3>
-          <img src="images/wave.svg" className="wave" alt="wave" />
+          <Image
+                src="images/wave.svg"
+                alt="Popular"
+                width={100}
+                height={100}
+              />
         </div>
         <div className="widget-content">
           <ul className="list">

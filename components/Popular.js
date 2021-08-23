@@ -1,10 +1,19 @@
+import Image from 'next/image'
+
+
 const Popular = () => {
   return (  
     <>
         <div className="widget rounded">
                 <div className="widget-header text-center">
                   <h3 className="widget-title">Popular Posts</h3>
-                  <img src="images/wave.svg" className="wave" alt="wave" />
+                  <Image
+                src="images/wave.svg"
+                alt="Popular"
+                width={100}
+                height={100}
+              />
+                  
                 </div>
                 <div className="widget-content">
               
@@ -13,7 +22,13 @@ const Popular = () => {
                       <span className="number">1</span>
                       <a href="blog-single.html">
                         <div className="inner">
-                          <img src="images/posts/tabs-1.jpg" alt="post-title" />
+                          <Image
+                src="images/posts/tabs-1.jpg"
+                alt="Popular"
+                width={100}
+                height={100}
+              />
+
                         </div>
                       </a>
                     </div>
@@ -30,7 +45,12 @@ const Popular = () => {
                       <span className="number">2</span>
                       <a href="blog-single.html">
                         <div className="inner">
-                          <img src="images/posts/tabs-2.jpg" alt="post-title" />
+                          <Image
+                src="images/posts/tabs-2.jpg"
+                alt="Popular"
+                width={100}
+                height={100}
+              />
                         </div>
                       </a>
                     </div>
@@ -47,7 +67,12 @@ const Popular = () => {
                       <span className="number">3</span>
                       <a href="blog-single.html">
                         <div className="inner">
-                          <img src="images/posts/tabs-3.jpg" alt="post-title" />
+                        <Image
+                src="images/posts/tabs-2.jpg"
+                alt="Popular"
+                width={100}
+                height={100}
+              />
                         </div>
                       </a>
                     </div>

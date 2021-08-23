@@ -14,9 +14,9 @@ const Bio = () => {
                   <i className="fab fa-facebook-f"></i>
                 </a>
               </li>
-              <li className="list-inline-item"><a href="https://www.twitter.com/silvercorp" target="_blank"><i className="fab fa-twitter"></i></a></li>
-              <li className="list-inline-item"><a href="https://www.instagram.com/yesidaysb/" target="_blank"><i className="fab fa-instagram"></i></a></li>
-              <li className="list-inline-item"><a href="https://www.youtube.com/channel/UCeq5xhBgFLkmfGPGov-N0xQ" target="_blank"><i className="fab fa-youtube"></i></a></li>
+              <li className="list-inline-item"><a href="https://www.twitter.com/silvercorp" target="_blank" rel="noreferrer"><i className="fab fa-twitter"></i></a></li>
+              <li className="list-inline-item"><a href="https://www.instagram.com/yesidaysb/" target="_blank" rel="noreferrer"><i className="fab fa-instagram"></i></a></li>
+              <li className="list-inline-item"><a href="https://www.youtube.com/channel/UCeq5xhBgFLkmfGPGov-N0xQ" target="_blank" rel="noreferrer"><i className="fab fa-youtube"></i></a></li>
             </ul>
           </div>
         </div>
