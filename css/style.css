@@ -2651,9 +2651,9 @@ button:focus {
   z-index: 3;
   color: #FFF;
   border-color: transparent;
-  background: #FFA387;
-  background: -webkit-linear-gradient(bottom, #FFA387 0%, #FE4F70 51%, #FFA387 100%);
-  background: linear-gradient(to top, #FFA387 0%, #FE4F70 51%, #FFA387 100%);
+  background: #9d4edd;
+  /*background: -webkit-linear-gradient(bottom, #FFA387 0%, #FE4F70 51%, #FFA387 100%);
+  background: linear-gradient(to top, #FFA387 0%, #FE4F70 51%, #FFA387 100%);*/
   background-size: auto 200%;
   -webkit-box-shadow: 0px 2px 4px 0px rgba(0, 0, 0, 0.15);
   -moz-box-shadow: 0px 2px 4px 0px rgba(0, 0, 0, 0.15);
@@ -2682,9 +2682,9 @@ button:focus {
 .page-link:hover {
   z-index: 2;
   color: #FFF;
-  background: #FFA387;
-  background: -webkit-linear-gradient(bottom, #FFA387 0%, #FE4F70 51%, #FFA387 100%);
-  background: linear-gradient(to top, #FFA387 0%, #FE4F70 51%, #FFA387 100%);
+  background: #cfbddf;
+  /*background: -webkit-linear-gradient(bottom, #FFA387 0%, #FE4F70 51%, #FFA387 100%);
+  background: linear-gradient(to top, #FFA387 0%, #FE4F70 51%, #FFA387 100%);*/
   background-size: auto 200%;
   border-color: transparent;
 }
