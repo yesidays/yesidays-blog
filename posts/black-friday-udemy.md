@@ -24,7 +24,7 @@ Una de los profesores más top que tiene Udemy es [Fernando Herrera](https://www
 
 Y si deseas aprender Python, mis dos recomendaciones son:
 1. [Curso Maestro de Python 3: Aprende Desde Cero](https://www.udemy.com/course/python-3-al-completo-desde-cero/)
-2. [https://www.udemy.com/course/curso-completo-de-python-3/](https://www.udemy.com/course/curso-completo-de-python-3/)
+2. [Programación en Python: Aprende Python desde cero (Python 3)](https://www.udemy.com/course/curso-completo-de-python-3/)
 
 
 
