@@ -1,6 +1,6 @@
 ---
 title: Mi segundo intento para convertirme en GDE
-date: '2021-11-09'
+date: '2021-11-18'
 excerpt: "Ser GDE no es solo por la mención, conlleva una pasos y responsabilidades."
 category: "Personal"
 cover: "/static/posts/2019.jpg"
