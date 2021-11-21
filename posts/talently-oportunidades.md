@@ -14,9 +14,9 @@ Hoy te quiero recomendar una Startup  que se llama [Talently](https://talently.t
 
 Sabemos que el mercado es competitivo pero si contamos con las herramientas y consejos de profesionales, además con el networking y la guía que tiene **Talently** tus posibilidades de mejorar tu posición actual se van a incrementar.
 
-Más adelante te voy a compartir mi experiencia con ellos pero te puedo adelantar que fue gratificante, útil y me compartieron información de gran valor.
+Más adelante te voy a compartir mi experiencia con ellos pero te puedo adelantar que fue gratificante, útil y me brindaron información de gran valor.
 
-Hoy quiero compartir contigo una excelente noticia que te puede servir, y es un **descuento del 33%** otorgado por parte del equipo de [Talently](https://www.twitter.com/TalentlyTech) para que te una a ellos.
+Hoy quiero comunicarte de una excelente noticia que te puede servir, y es un **descuento del 33%** otorgado por parte del equipo de [Talently](https://www.twitter.com/TalentlyTech) para que te una a ellos.
 
 Si tienes más preguntas tienes más información en el siguiente [enlace](https://talently.tech/?utm_source=Facebook&utm_medium=organico&utm_campaign=TalentlyLanding-Engagement&utm_content=Intereses&utm_term=embajadores).
 
