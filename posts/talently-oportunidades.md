@@ -16,9 +16,9 @@ Sabemos que el mercado es competitivo pero si contamos con las herramientas y co
 
 Más adelante te voy a compartir mi experiencia con ellos pero te puedo adelantar que fue gratificante, útil y me brindaron información de gran valor.
 
-Hoy quiero comunicarte de una excelente noticia que te puede servir, y es un **descuento del 33%** otorgado por parte del equipo de [Talently](https://www.twitter.com/TalentlyTech) para que te una a ellos.
+Hoy quiero comunicarte de una excelente noticia que te puede servir, y es un **descuento del 33%** otorgado por parte del equipo de [Talently](https://www.twitter.com/TalentlyTech) para que te unas a ellos.
 
-Si tienes más preguntas tienes más información en el siguiente [enlace](https://talently.tech/?utm_source=Facebook&utm_medium=organico&utm_campaign=TalentlyLanding-Engagement&utm_content=Intereses&utm_term=embajadores).
+Si tienes más preguntas en el siguiente [enlace](https://talently.tech/?utm_source=Facebook&utm_medium=organico&utm_campaign=TalentlyLanding-Engagement&utm_content=Intereses&utm_term=embajadores) obtendrás información.
 
 Te deseo mucho éxito en tu carrera profesional.
 
