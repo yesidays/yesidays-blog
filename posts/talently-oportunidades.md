@@ -1,5 +1,5 @@
 ---
-title: Mejora tus oportunidades con Talently
+title: Mejora tus oportunidades laborales con Talently
 date: '2021-11-21'
 excerpt: "Talently es una Startup que te ayuda a mejorar tus oportunidades para conseguir empleo..."
 category: "Personal"
