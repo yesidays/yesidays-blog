@@ -22,5 +22,7 @@ Si tienes más preguntas en el siguiente [enlace](https://talently.tech/?utm_sou
 
 Te deseo mucho éxito en tu carrera profesional.
 
+**Cupón de descuento:[aquí](https://talently.tech/r/?code=ICTAC1]**
+
 Nos vemos
 
