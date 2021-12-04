@@ -16,6 +16,7 @@ const Popular = () => {
               />*/}
                   
           </div>
+
           <div className="widget-content">    
             <div className="post post-list-sm circle">
               <div className="thumb circle">
@@ -43,7 +44,68 @@ const Popular = () => {
                   </ul>
               </div>
             </div>
-          </div>		
+          </div>	
+
+          <div className="widget-content">    
+            <div className="post post-list-sm circle">
+              <div className="thumb circle">
+                <span className="number">2</span>
+                <Link href="/posts/talently-oportunidades">
+                  <a href="">
+                    <div className="inner">
+                      {/*<Image
+                        src="images/posts/tabs-1.jpg"
+                        alt="Popular"
+                        width={100}
+                        height={100}
+                      />*/}
+                    </div>
+                  </a></Link>
+              </div>
+              <div className="details clearfix">
+                <h6 className="post-title my-0">
+                  <Link href="/posts/talently-oportunidades">
+                    <a href="">Mejora tus oportunidades laborales con Talently</a>
+                  </Link>
+                </h6>
+                  <ul className="meta list-inline mt-1 mb-0">
+                    <li className="list-inline-item">21 Nov 2021</li>
+                  </ul>
+              </div>
+            </div>
+          </div>	
+
+          <div className="widget-content">    
+            <div className="post post-list-sm circle">
+              <div className="thumb circle">
+                <span className="number">3</span>
+                <Link href="/posts/lecciones-startup">
+                  <a href="">
+                    <div className="inner">
+                      {/*<Image
+                        src="images/posts/tabs-1.jpg"
+                        alt="Popular"
+                        width={100}
+                        height={100}
+                      />*/}
+                    </div>
+                  </a></Link>
+              </div>
+              <div className="details clearfix">
+                <h6 className="post-title my-0">
+                  <Link href="/posts/lecciones-startup">
+                    <a href="">Mis experiencias trabajando en una Startup</a>
+                  </Link>
+                </h6>
+                  <ul className="meta list-inline mt-1 mb-0">
+                    <li className="list-inline-item">09 Nov 2021</li>
+                  </ul>
+              </div>
+            </div>
+          </div>	
+
+
+
         </div>
     </>
 
