@@ -15,7 +15,7 @@ const Sidebar = () => {
                         
             <Bio />
 
-            {/*<Popular />*/}
+            <Popular />
 
 
             {/*<Topics />*/}
