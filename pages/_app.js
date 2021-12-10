@@ -64,11 +64,18 @@ function MyApp({ Component, pageProps }) {
             }}
           />
 
-      <script 
-          async 
-          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1435995620378131"
-          crossOrigin="anonymous">
+      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1435995620378131"
+          crossorigin="anonymous"></script>
+      <ins class="adsbygoogle"
+          style="display:block; text-align:center;"
+          data-ad-layout="in-article"
+          data-ad-format="fluid"
+          data-ad-client="ca-pub-1435995620378131"
+          data-ad-slot="5679228788"></ins>
+      <script>
+          (adsbygoogle = window.adsbygoogle || []).push({});
       </script>
+
         
       </Head>
 
