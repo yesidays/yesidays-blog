@@ -65,7 +65,7 @@ function MyApp({ Component, pageProps }) {
           />
 
       <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1435995620378131"
-          crossorigin="anonymous"></script>
+          crossOrigin="anonymous"></script>
       <ins class="adsbygoogle"
           style="display:block; text-align:center;"
           data-ad-layout="in-article"
