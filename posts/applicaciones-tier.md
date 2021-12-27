@@ -1,5 +1,5 @@
 ---
-title: ¿Qué sons los 'tiers' en la arquitectura de software?
+title: ¿Qué son los 'tiers' en la arquitectura de software?
 date: '2021-12-27'
 excerpt: "Cuando nos involucramos en la arquitectura de software es necesario saber como vamos a dividir los diferentes posibles componentes que tendrá nuestra aplicación, en el siguiente post te comparto los 'tiers' más conocidos"
 category: "Tech"
