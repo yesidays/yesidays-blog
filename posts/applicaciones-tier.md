@@ -39,7 +39,7 @@ Las redes sociales son el claro ejemplo del uso de la división N-tier y su nece
 
 Entre sus ventajas de hacerlo de esta manera es separar la responsabilidad de la modificación y seguimiento de cada una de sus partes además de detectar en dónde puede ocurrir un error principal y solo enfocarnos a ese componente.
 
-Este enfoque nos permite mucha flexibilidad, comunicación y mejorar de los componentes.
+Este enfoque nos permite mucha flexibilidad, comunicación y mejora de los componentes.
 
 Es importante mencionar que la separación por capas lógicas y físicas son diferentes, en este post me enfoqué exclusivamente en la parte física. 
 
