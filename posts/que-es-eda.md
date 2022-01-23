@@ -73,7 +73,7 @@ A partir de aquí puedes crear gráficas que te apoyen visualmente a la comprens
 
 Esto es solo un pequeño ejemplo de cómo usar EDA para la comprensión de tu información.
 
-Si quieres saber más sobre EDA, te recomiendo la especialidad de Ciencia de Datos impartida por [Código Facilito](https://www.codefacilito.com/) y todo encontrarás un módulo de casi 11hrs dónde aprenderás a profundidad más sobre EDA.
+Si quieres saber más sobre EDA, te recomiendo la especialidad de Ciencia de Datos impartida por [Código Facilito](https://codigofacilito.com/especialidades/especialidad-de-ciencia-de-datos) y todo encontrarás un módulo de casi 11hrs dónde aprenderás a profundidad más sobre EDA.
 
 Si te sirvió este post te invito a compartirlo en tus redes sociales y seguirme en [Twitter](https://www.twitter.com/silvercorp).
 
