@@ -14,7 +14,7 @@ En el siguiente post te voy a compartir tus primeros 10 conceptos que considero 
 
 Los términos argumentos y parámetros en ocasiones suelen usarse de manera indistinta sin embargo tienen significados diferentes. Los **argumentos** son valores que se envían (pasan) en una función y los **parámetros** son los valores que lee la función.
 
-### 2. Función
+### 2. Función 
 
 Es un conjunto de instrucciones que se empaquetan o aislan en un bloque de código realizando una tarea específica y siendo llamada (invocada) de una manera más sencilla.
 
