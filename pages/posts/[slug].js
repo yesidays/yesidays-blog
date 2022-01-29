@@ -4,11 +4,25 @@ import Link from "next/link";
 import { useState } from 'react'
 import * as ga from '../../lib/ga'
 
+import {
+    FacebookShareButton,
+    FacebookIcon,
+    TwitterShareButton,
+    TwitterIcon,
+    WhatsappShareButton,
+    WhatsappIcon,
+    LinkedinShareButton,
+    LinkedinIcon,
+} from 'next-share';
+
 export async function getStaticProps({ params }) {
   const postData = await getPostData(params.slug);
+  const urlPost = '/posts/' + params.slug
+
   return {
     props: {
       postData,
+      urlPost
     },
   };
 }
@@ -21,7 +35,7 @@ export async function getStaticPaths() {
   };
 }
 
-export default function Post({ postData }) {
+export default function Post({ postData, urlPost }) {
 
   const [query, setQuery] = useState("");
 
@@ -47,9 +61,33 @@ export default function Post({ postData }) {
 
         <div dangerouslySetInnerHTML={{ __html: postData.contentHtml }} />
 
+        <div><Link href="/"><a><i>Regresar</i></a></Link></div>
+
+        <br />
+
+        <TwitterShareButton
+          url={urlPost} >
+          <TwitterIcon size={32} round />
+        </TwitterShareButton>&nbsp;
+
+        <FacebookShareButton
+          url={urlPost} >
+          <FacebookIcon size={32} round />
+        </FacebookShareButton>&nbsp;
+
+        <WhatsappShareButton
+          url={urlPost} >
+          <WhatsappIcon size={32} round />
+        </WhatsappShareButton>
+        &nbsp;
+        <LinkedinShareButton
+          url={urlPost} >
+          <LinkedinIcon size={32} round />
+        </LinkedinShareButton>
+
         
 
-        <div><Link href="/"><a><i>Regresar</i></a></Link></div>
+        
 
 
       </div>
