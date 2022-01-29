@@ -17,7 +17,7 @@ import {
 
 export async function getStaticProps({ params }) {
   const postData = await getPostData(params.slug);
-  const urlPost = '/posts/' + params.slug
+  const urlPost = 'https://www.yesidays.tech/posts/' + params.slug
 
   return {
     props: {
