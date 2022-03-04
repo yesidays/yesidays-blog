@@ -2,7 +2,7 @@
 title: ¿Qué es una base de datos NoSQL?
 date: '2021-03-04'
 excerpt: "Las bases de datos NoSQL son de uso popular en la industria..."
-category: "Personal"
+category: "Datos"
 cover: "/static/posts/2019.jpg"
 ---
 
