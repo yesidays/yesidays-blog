@@ -12,9 +12,9 @@ Los data lakes tienen un enfoque mucho más simple, y suelen ser ideales para or
 
 Los **data lakes** son repositorios de datos que pueden ser locales o basados en la nube, y se utilizan para análisis, almacenamiento de datos crudos que no necesitan una estructura rígida o tabular. Pensemos en que trabajamos con imágenes de rostros y videos, en el caso de los data lakes podemos almacenar archivos .jpg, .png o videos en diferentes formatos. Más adelante cuando queremos analizar esa data cruda recurriremos al espacio proporcionado por el data lake para consultarlos y a partir de ahí hacer un proceso de limpieza, análisis o simple consulta.
 
-En el caso de los **data warehouse** suelen tener una estructura más rígida y tabular y donde los datos ya están previamente organizados y disponibles para su consulta. En este sentido los data warehouse ya almacenan data preparada de una manera estructurada y el objetivo es que los usuarios puedan consultar los datos sin necesidad de un proceso de limpieza como en el caso de los data lakes.
+En el caso de los **data warehouse** tienen una estructura más rígida y tabular y donde los datos ya están previamente organizados y disponibles para su consulta. En este sentido los data warehouse ya almacenan data preparada de una manera estructurada y el objetivo es que los usuarios puedan consultar los datos sin necesidad de un proceso de limpieza como en el caso de los data lakes.
 
-En cuanto a la consulta y uso de cada uno, suelen utilizarse por los siguientes roles:
+En cuanto a la consulta y uso de cada uno, pueden utilizarse por los siguientes roles:
 
 * Data lake: Analistas de datos, científicos de datos, ingenieros de datos.
 * Data warehouse: Analistas de negocios, analistas de datos, ingenieros de datos, área de negocios.
