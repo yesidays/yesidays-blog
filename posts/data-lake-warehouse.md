@@ -16,8 +16,8 @@ En el caso de los **data warehouse** tienen una estructura más rígida y tabula
 
 En cuanto a la consulta y uso de cada uno, pueden utilizarse por los siguientes roles:
 
-* Data lake: Analistas de datos, científicos de datos, ingenieros de datos.
-* Data warehouse: Analistas de negocios, analistas de datos, ingenieros de datos, área de negocios.
+* **Data lake:** Analistas de datos, científicos de datos, ingenieros de datos.
+* **Data warehouse:** Analistas de negocios, analistas de datos, ingenieros de datos, área de negocios.
 
 
 ### ¿Cuál debo usar?
@@ -30,7 +30,7 @@ Una recomendación adicional, es que tengas cuidado de cómo almacenas y que tan
 
 ### Conclusión
 
-El data lake y data warehouse son conceptos que te involucras o estás involucrando en data debes conocer y usar. 
+El data lake y data warehouse son conceptos que si te involucras o estás involucrando en data debes conocer y usar. 
 
 Para acotar la idea de una manera **muy simplista** puedes pensar que los **data lakes** es una caja de cartón donde guardar piezas de lego de diferentes formas, colores y tamaños, y los **data warehouse** es una caja especialmente para legos donde ya has formado figuras que tienen un objetivo en común.
 
