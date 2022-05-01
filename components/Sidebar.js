@@ -24,7 +24,7 @@ const Sidebar = () => {
             <Newsletter />
             
 
-            {/*<Ads />*/}
+            <Ads />
 
             {/*<Tags />*/}
 

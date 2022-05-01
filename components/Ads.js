@@ -5,14 +5,21 @@ const Ads = () => {
     <>
 
       <div className="widget no-container rounded text-md-center">
-        <span className="ads-title">- Sponsored Ad -</span>
+        <span className="ads-title"></span>
         <a href="#" className="widget-ads">
-          <Image
-            src="images/ads/ad-360.png"
-            alt="Ads"
-            width={100}
-            height={100}
-          />
+        {/* Google Ads */}
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <ins className="adsbygoogle"
+          style={{display: 'block'}}
+          data-ad-client="ca-pub-1435995620378131"
+          data-ad-slot="9654868246"
+          data-ad-format="auto"
+          data-full-width-responsive="true"></ins>
+        <script>
+          (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+
+
         </a>
         </div>
     </>
