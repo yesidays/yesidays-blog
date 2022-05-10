@@ -91,17 +91,8 @@ export default function Home({ allPostsData }) {
               </div>
 
               {/* Google Ads */}
-              <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-              <ins className="adsbygoogle"
-                style={{display: 'block', textalign: 'center'}}
-                data-ad-layout="in-article"
-                data-ad-format="fluid"
-                data-ad-client="ca-pub-1435995620378131"
-                data-ad-slot="7652640996"
-                data-full-width-responsive="true"></ins>
-              <script>
-                (adsbygoogle = window.adsbygoogle || []).push({});
-              </script>
+              <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1435995620378131"
+              crossOrigin="anonymous"></script>
 
             </div>
 
