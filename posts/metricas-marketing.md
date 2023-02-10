@@ -44,4 +44,6 @@ Por lo que si estás en un rol enfocado a datos es importante tener una comprens
 
 Si te gustó esta publicación te invito a seguirme en [Twitter](https://www.twitter.com/silvercorp) y mi blog en inglés en [Medium](https://yesidays.medium.com/)
 
+Además te recomiendo que sigas a [Amintore](https://twitter.com/AmintoreOficial) quien da consejos de medición, impacto y análisis en temas de startups.
+
 
